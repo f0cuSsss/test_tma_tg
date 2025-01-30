@@ -12,9 +12,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  webview_flutter: ^4.10.0
   cupertino_icons: ^1.0.6
+
+  flutter_bloc: ^9.0.0
+
+  webview_flutter: ^4.4.1
+  webview_flutter_android: ^3.10.1
+  webview_flutter_wkwebview: ^3.9.1
 
 dev_dependencies:
   flutter_test:
